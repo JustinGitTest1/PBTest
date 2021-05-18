@@ -38,9 +38,9 @@ destroy(this.wb_1)
 end on
 
 type cb_new_button from commandbutton within w_test
-integer x = 3323
-integer y = 644
-integer width = 457
+integer x = 3360
+integer y = 1460
+integer width = 763
 integer height = 112
 integer taborder = 10
 fontcharset fontcharset = ansi!
