@@ -39,9 +39,9 @@ end on
 
 type cb_new_button from commandbutton within w_test
 integer x = 3360
-integer y = 1460
+integer y = 1132
 integer width = 763
-integer height = 112
+integer height = 440
 integer taborder = 10
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
