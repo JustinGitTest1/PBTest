@@ -20,7 +20,7 @@ end prototypes
 public function integer of_test (integer as_arg);string lt_start_time, lt_stop_time
 
 //Sanity check
-if 'x' = 'y' then
+if 'j' = 'k' then
 	//Should never be true
 	MessageBox('','Not good')
 	return -1
