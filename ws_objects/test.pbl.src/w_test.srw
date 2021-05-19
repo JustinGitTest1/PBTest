@@ -41,7 +41,7 @@ type cb_new_button from commandbutton within w_test
 integer x = 3360
 integer y = 1460
 integer width = 763
-integer height = 109
+integer height = 108
 integer taborder = 10
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
@@ -50,10 +50,10 @@ string text = "New Button"
 end type
 
 type wb_1 from webbrowser within w_test
-integer x = 96
-integer y = 20
-integer width = 2866
-integer height = 1796
+integer x = 128
+integer y = 124
+integer width = 2199
+integer height = 1552
 string defaulturl = "C:\SampleFiles2\Test.html"
 end type
 
