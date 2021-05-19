@@ -17,7 +17,8 @@ end prototypes
 
 public function integer of_test (integer as_arg);//Test
 
-if 1 = 2 then
+if 2 = 1 then
+	MessageBox('','Oh boy, Thats not good :(')
 end if
 
 return 1
