@@ -20,12 +20,13 @@ end prototypes
 public function integer of_test (integer as_arg);string lt_start_time, lt_stop_time
 
 //Sanity check
-if 'a' = 'b' then
+if 'c' = 'd' then
 	//Should never be true
 	MessageBox('','Not good')
 	return -1
 end if
 
+//Calc time diff
 double convertedTime1,convertedTime2
 Char char1[12],char2[12]
 
