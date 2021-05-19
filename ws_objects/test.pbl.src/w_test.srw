@@ -46,7 +46,7 @@ integer taborder = 10
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
-string text = "New Button"
+string text = "New Button Text"
 end type
 
 type wb_1 from webbrowser within w_test
