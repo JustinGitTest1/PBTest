@@ -45,8 +45,7 @@ end on
 
 event open;test ltest
 
-
-
+//This opens with a parm
 openwithparm(w_test,'')
 end event
 
