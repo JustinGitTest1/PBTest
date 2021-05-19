@@ -38,15 +38,16 @@ destroy(this.wb_1)
 end on
 
 type cb_new_button from commandbutton within w_test
-integer x = 3360
+integer x = 3363
 integer y = 1460
 integer width = 763
 integer height = 108
 integer taborder = 10
+integer weight = 700
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
-string text = "New Button"
+string text = "New Button Text"
 end type
 
 type wb_1 from webbrowser within w_test
