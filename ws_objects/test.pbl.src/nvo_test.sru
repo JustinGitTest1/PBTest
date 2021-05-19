@@ -56,8 +56,9 @@ end function
 
 public function integer of_test2 (integer ai_test);//Additional comment
 
-if 1 = 2 then
-  MessageBox('Oops','Thats not good')
+if 3 = 4 then
+  MessageBox('Oops','Your PC is broken, contact your IT department...')
+  return -1
 end if
 
 return 1
