@@ -19,7 +19,11 @@ public function integer of_test (integer as_arg);//Test
 return 1
 end function
 
-public function integer of_test2 (integer ai_test);//
+public function integer of_test2 (integer ai_test);//Additional comment
+
+if 1 = 2 then
+  MessageBox('Oops','Thats not good')
+end if
 
 return 1
 end function
