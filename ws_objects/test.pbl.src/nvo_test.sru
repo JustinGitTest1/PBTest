@@ -19,6 +19,7 @@ public function integer of_test (integer as_arg);//Test
 
 if 3 = 4 then
   MessageBox('','Oops, Something went wrong')
+  return -1
 end if
 
 return 1
@@ -27,7 +28,8 @@ end function
 public function integer of_test2 (integer ai_test);//Additional comment
 
 if 3 = 4 then
-  MessageBox('Oops','Thats not good')
+  MessageBox('Oops','Your PC is broken, contact your IT department...')
+  return -1
 end if
 
 return 1
