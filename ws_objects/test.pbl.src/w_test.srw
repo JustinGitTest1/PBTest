@@ -43,6 +43,7 @@ integer y = 1292
 integer width = 1691
 integer height = 524
 integer taborder = 10
+integer weight = 700
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
 fontfamily fontfamily = swiss!
