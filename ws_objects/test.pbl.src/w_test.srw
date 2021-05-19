@@ -38,10 +38,10 @@ destroy(this.wb_1)
 end on
 
 type cb_new_button from commandbutton within w_test
-integer x = 3361
+integer x = 3363
 integer y = 1460
-integer width = 764
-integer height = 108
+integer width = 766
+integer height = 107
 integer taborder = 10
 fontcharset fontcharset = ansi!
 fontpitch fontpitch = variable!
