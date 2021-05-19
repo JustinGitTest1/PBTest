@@ -12,6 +12,7 @@ forward prototypes
 public function integer of_test (integer as_arg)
 public function integer of_test2 (integer ai_test)
 public function integer of_test9 (integer ai_test)
+public function integer of_test3 (integer ai_tst)
 end prototypes
 
 public function integer of_test (integer as_arg);//Test
@@ -31,6 +32,11 @@ end function
 public function integer of_test9 (integer ai_test);//
 
 return 1
+end function
+
+public function integer of_test3 (integer ai_tst);//
+
+return -1
 end function
 
 on nvo_test.create
