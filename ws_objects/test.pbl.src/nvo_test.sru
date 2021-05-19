@@ -16,7 +16,11 @@ public function integer of_test3 (integer ai_tst)
 end prototypes
 
 public function integer of_test (integer as_arg);//Test
-
+//
+//
+//
+//
+//
 return 1
 end function
 
