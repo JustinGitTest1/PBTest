@@ -17,7 +17,8 @@ end prototypes
 
 public function integer of_test (integer as_arg);//Test
 
-if 1 = 2 then
+if 3 = 4 then
+  MessageBox('','Oops, Something went wrong')
 end if
 
 return 1
@@ -25,7 +26,7 @@ end function
 
 public function integer of_test2 (integer ai_test);//Additional comment
 
-if 1 = 2 then
+if 3 = 4 then
   MessageBox('Oops','Thats not good')
 end if
 
